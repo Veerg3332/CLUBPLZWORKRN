@@ -37,18 +37,9 @@ URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
-URL = "products"
-name = "Products"
-weight = 2
-[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 3
-[[menu.main]]
-URL = "testimonial"
-name = "Review"
-pre = "#"
-weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"

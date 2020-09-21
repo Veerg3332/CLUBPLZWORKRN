@@ -17,23 +17,23 @@ features:
   left_side:
   - title: Learn How To Invest
     icon: ''
-    content: BIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKS
+    content: ''
   - title: Make Great Stock Picks
     icon: ''
-    content: BIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKS
+    content: ''
   - title: Discuss With Like-Minded People
     icon: ''
-    content: BIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKS
+    content: ''
   right_side:
   - title: Find A Group Of Friends
     icon: ''
-    content: BIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKS
+    content: ''
   - title: Get Phenomenal Advice
     icon: ''
-    content: BIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKS
+    content: ''
   - title: Have Fun
     icon: ''
-    content: BIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKSBIGSTONKS
+    content: ''
 promo:
   enable: true
   image: images/watch.png

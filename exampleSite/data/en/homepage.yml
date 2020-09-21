@@ -36,12 +36,12 @@ features:
     content: ''
 promo:
   enable: true
-  image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: "/images/stonksplzwork.png"
+  title: Our Club
+  content: 'Although we want everyone to learn, adapt, and discuss, our main goal
+    is that you have fun. <br><br> This club isn''t going to be a boring 30-minute
+    slide presentation, but instead an opportunity for you to learn and have a great
+    time.  '
 about_product:
   enable: true
   title: Why Choose Apple Watch

@@ -5,41 +5,35 @@ banner:
   content: 'Anyone can join the Investing Club. Whether you are just interested in
     learning, have been investing for, or have made millions on TSLA, we would love
     to have you! '
-  image: images/watch.png
+  image: "/images/investlogo.png"
   button:
     enable: true
     label: Join Our Meeting
     link: zoomlinkgoeshere
 features:
   enable: true
-  title: Our Core Features
+  title: Perks
   image: images/watch-2.png
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Learn How To Invest
+    icon: ''
+    content: ''
+  - title: Make Great Stock Picks
+    icon: ''
+    content: ''
+  - title: Discuss With Like-Minded People
+    icon: ''
+    content: ''
   right_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Find A Group Of Friends
+    icon: ''
+    content: ''
+  - title: Get Phenomenal Advice
+    icon: ''
+    content: ''
+  - title: Have Fun
+    icon: ''
+    content: ''
 promo:
   enable: true
   image: images/watch.png

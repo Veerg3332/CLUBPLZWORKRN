@@ -17,23 +17,23 @@ features:
   left_side:
   - title: Learn How To Invest
     icon: ''
-    content: ''
+    content: textgoeshere
   - title: Make Great Stock Picks
     icon: ''
-    content: ''
+    content: textgoeshere
   - title: Discuss With Like-Minded People
     icon: ''
-    content: ''
+    content: textgoeshere
   right_side:
   - title: Find A Group Of Friends
     icon: ''
-    content: ''
+    content: textgoeshere
   - title: Get Phenomenal Advice
     icon: ''
-    content: ''
+    content: textgoeshere
   - title: Have Fun
     icon: ''
-    content: ''
+    content: textgoeshere
 promo:
   enable: true
   image: "/images/stonksplzwork.png"

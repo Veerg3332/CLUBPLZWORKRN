@@ -8,8 +8,8 @@ banner:
   image: images/watch.png
   button:
     enable: true
-    label: Browse All Products
-    link: products
+    label: Join Our Meeting
+    link: zoomlinkgoeshere
 features:
   enable: true
   title: Our Core Features

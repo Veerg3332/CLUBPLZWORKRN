@@ -15,25 +15,25 @@ features:
   title: Why You Should Join
   image: "/images/bamboo.png"
   left_side:
-  - title: Learn How To Invest
-    icon: ''
-    content: textgoeshere
+  - title: 'Learn How To Invest '
+    icon: "/images/circle.jpg"
+    content: ''
   - title: Make Great Stock Picks
-    icon: ''
-    content: textgoeshere
+    icon: "/images/circle.jpg"
+    content: ''
   - title: Discuss With Like-Minded People
-    icon: ''
-    content: textgoeshere
+    icon: "/images/circle.jpg"
+    content: ''
   right_side:
   - title: Find A Group Of Friends
-    icon: ''
-    content: textgoeshere
+    icon: "/images/circle.jpg"
+    content: ''
   - title: Get Phenomenal Advice
-    icon: ''
-    content: textgoeshere
+    icon: "/images/circle.jpg"
+    content: ''
   - title: Have Fun
-    icon: ''
-    content: textgoeshere
+    icon: "/images/circle.jpg"
+    content: ''
 promo:
   enable: true
   image: "/images/stonksplzwork.png"

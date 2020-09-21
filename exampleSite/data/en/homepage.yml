@@ -43,7 +43,7 @@ promo:
     slide presentation, but instead an opportunity for you to learn and have a great
     time.  '
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
@@ -65,16 +65,16 @@ about_product:
       label: Check Features
       link: "#"
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew

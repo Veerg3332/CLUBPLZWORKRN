@@ -5,14 +5,14 @@ $primary-font: 'Josefin Sans',
 sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
-$primary-color: #f9a743;
+$primary-color: #28EB57;
 $icon-font: 'themefisher-font' !important;
 
 /*--
     Common Css
 --*/
 body {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 25px;
   color: #3b4045;
@@ -200,7 +200,7 @@ a:active {
   padding: 15px 40px;
   display: inline-block;
   background-color: $primary-color;
-  box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
+  box-shadow: #28EB61;
   background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
 
   &:hover,
